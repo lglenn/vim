@@ -96,4 +96,5 @@ let g:vimclojure#ParenRainbow = 1
 
 syntax on                    " syntax highlighing
 filetype on                  " try to detect filetypes
-filetype plugin indent on    " enable loading indent file for filetype
+filetype plugin indent on    " enable loading indent file for 
+highlight SpellBad term=underline cterm=underline gui=underline ctermbg=8
