@@ -4,6 +4,7 @@ set number
 set ruler
 
 " Use modelines - must be one of the first three lines.
+set modeline
 set modelines=3
 
 "
