@@ -56,6 +56,7 @@ if has("autocmd")
 
     " Set special options for one kind of file:
     autocmd FileType ruby setlocal ts=2 sts=2 sw=2 expandtab
+    autocmd FileType cucumber setlocal ts=2 sts=2 sw=2 expandtab
     autocmd BufNewFile,BufRead *.mkd setfiletype markdown
     autocmd FileType html setlocal ts=2 sts=2 sw=2 expandtab
     autocmd FileType markdown setlocal ts=5 sts=4 sw=2 noexpandtab spell spelllang=en_us
