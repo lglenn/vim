@@ -28,3 +28,9 @@
 [submodule "bundle/matchit"]
 	path = bundle/matchit
 	url = git@github.com:vim-scripts/matchit.zip.git
+[submodule "bundle/vim-scala"]
+	path = bundle/vim-scala
+	url = https://github.com/derekwyatt/vim-scala.git
+[submodule "bundle/taboo"]
+	path = bundle/taboo
+	url = https://github.com/gcmt/taboo.vim.git
