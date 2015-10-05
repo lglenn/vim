@@ -34,3 +34,6 @@
 [submodule "bundle/taboo"]
 	path = bundle/taboo
 	url = https://github.com/gcmt/taboo.vim.git
+[submodule "bundle/vim-pencil"]
+	path = bundle/vim-pencil
+	url = https://github.com/reedes/vim-pencil
