@@ -9,13 +9,13 @@
 	url = https://github.com/mitechie/pyflakes-pathogen.git
 [submodule "bundle/puppet"]
 	path = bundle/puppet
-	url = git://github.com/rodjek/vim-puppet.git
+	url = https://github.com/rodjek/vim-puppet.git
 [submodule "bundle/tabular"]
 	path = bundle/tabular
-	url = git://github.com/godlygeek/tabular.git
+	url = https://github.com/godlygeek/tabular.git
 [submodule "bundle/vim-surround"]
 	path = bundle/vim-surround
-	url = git://github.com/tpope/vim-surround.git
+	url = https://github.com/tpope/vim-surround.git
 [submodule "bundle/vim-markdown"]
 	path = bundle/vim-markdown
 	url = https://github.com/tpope/vim-markdown.git
@@ -27,7 +27,7 @@
 	url = https://github.com/vim-pandoc/vim-pandoc.git
 [submodule "bundle/matchit"]
 	path = bundle/matchit
-	url = git@github.com:vim-scripts/matchit.zip.git
+	url = https://github.com/vim-scripts/matchit.zip.git
 [submodule "bundle/vim-scala"]
 	path = bundle/vim-scala
 	url = https://github.com/derekwyatt/vim-scala.git
